@@ -14,7 +14,7 @@ The following "production" database samples are maintained here:
 | File | Description |
 | --- | --- |
 | latest | Kept up to date with latest "master" (development) branch |
-| 0.13.0 | Pinned at 0.13.0 release |
+| 0.13.5 | Pinned at 0.13.5 release |
 | 0.12.0 | Pinned at 0.12.0 release |
 | 0.11.0 | Pinned at 0.11.0 release |
 | 0.10.0 | Pinned at 0.10.0 release |
